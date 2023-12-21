@@ -1,4 +1,4 @@
-# Whe're tired of Bad SSO
+# We're tired of Bad SSO
 And you should be too, for far too long developers have taken the lazy way with SSO by using a users email address as their identifier instead of a unique value.
 
 This has resulted in numerous issues for IT professionals and major security issues in general.
